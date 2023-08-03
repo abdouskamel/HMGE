@@ -1,11 +1,11 @@
-# Hierarchical Aggregations for High-Dimensional Multiplex Graph Embedding
+# HMGE : Hierarchical Aggregations for High-Dimensional Multiplex Graph Embedding
 
 ## Requirements
-Python 3.6
-numpy
-scipy
-scikit-learn
-pytorch
+Python 3.6 <br />
+numpy <br />
+scipy <br />
+scikit-learn <br />
+pytorch <br />
 tqdm
 
 ## Run
