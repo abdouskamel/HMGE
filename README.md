@@ -20,7 +20,7 @@ Examples :
 `main.py biogrid_4211 True`
 
 ## Reference
-If you find this work useful in your research, please cite the following paper:
+If you find this work useful in your research, please consider citing the following paper:
 
 ```
 @ARTICLE{abdous2023hierarchical,
