@@ -18,3 +18,19 @@ Examples :
 
 `main.py biogrid_4211 False` <br />
 `main.py biogrid_4211 True`
+
+## Reference
+If you find this work useful in your research, please cite the following paper:
+
+```
+@ARTICLE{abdous2023hierarchical,
+  author={Abdous, Kamel and Mrabah, Nairouz and Bouguessa, Mohamed},
+  journal={IEEE Transactions on Knowledge and Data Engineering}, 
+  title={Hierarchical Aggregations for High-Dimensional Multiplex Graph Embedding}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-14},
+  doi={10.1109/TKDE.2023.3305809}
+}
+```
