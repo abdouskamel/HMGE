@@ -27,7 +27,7 @@ Examples :
 If you find this work useful in your research, please consider citing the following paper:
 
 ```
-@ARTICLE{abdous2023hierarchical,
+@ARTICLE{abdous2024hierarchical,
   author={Abdous, Kamel and Mrabah, Nairouz and Bouguessa, Mohamed},
   journal={IEEE Transactions on Knowledge and Data Engineering}, 
   title={Hierarchical Aggregations for High-Dimensional Multiplex Graph Embedding}, 
